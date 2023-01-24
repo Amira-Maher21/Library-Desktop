@@ -1,0 +1,988 @@
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe.config
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.pdb
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.CodeParser.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Images.v19.2.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csprojResolveAssemblyReference.cache
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookForm.resources
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.MainForm.resources
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Properties.Resources.resources
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csproj.GenerateResource.Cache
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe.licenses
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe
+Z:\Share\projects\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.pdb
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe.config
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.pdb
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.categoryForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookForm.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.MainForm.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Properties.Resources.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csproj.GenerateResource.Cache
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe.licenses
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.pdb
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.CodeParser.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Images.v19.2.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csprojResolveAssemblyReference.cache
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.AuthorForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.NationalityForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.EmployeeForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BorrowerForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.StoreForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BorrowerBookForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookRequestForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.InvoiceForm1.resources
+F:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe.config
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.pdb
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.pdb
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.AuthorForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookRequestForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BorrowerBookForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BorrowerForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.categoryForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookForm.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.EmployeeForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.InvoiceForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.StoreForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport2.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport3.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.MainForm.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.NationalityForm1.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Properties.Resources.resources
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csproj.GenerateResource.Cache
+D:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe.licenses
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport2.resources
+F:\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport3.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe.config
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.pdb
+D:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe.config
+D:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe
+D:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.pdb
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.pdb
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.CodeParser.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Images.v19.2.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csprojResolveAssemblyReference.cache
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.AuthorForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookRequestForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BorrowerBookForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BorrowerForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.categoryForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookForm.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.EmployeeForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.InvoiceForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.StoreForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport2.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport3.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.MainForm.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.NationalityForm1.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Properties.Resources.resources
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csproj.GenerateResource.Cache
+F:\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe.licenses
+C:\Users\Amera\Desktop\amira wark\Library\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe.config
+C:\Users\Amera\Desktop\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe
+C:\Users\Amera\Desktop\amira wark\Library\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.pdb
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe.config
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.pdb
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.exe
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\LibraryMainForm.pdb
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.CodeParser.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Images.v19.2.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Data.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csprojResolveAssemblyReference.cache
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.AuthorForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookRequestForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BorrowerBookForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BorrowerForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.categoryForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.BookForm.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.EmployeeForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.InvoiceForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.StoreForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport2.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Forms.XtraReport3.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.MainForm.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.NationalityForm1.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.Properties.Resources.resources
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\Library.csproj.GenerateResource.Cache
+F:\brojects\LibraryMainForm\LibraryMainForm\obj\Debug\LibraryMainForm.exe.licenses

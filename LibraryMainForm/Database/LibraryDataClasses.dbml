@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Library" Class="LibraryDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Library;Persist Security Info=True;User ID=sa" SettingsObjectName="LibraryMainForm.Properties.Settings" SettingsPropertyName="LibraryConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Author" Member="Authors">
+    <Type Name="Author">
+      <Column Name="AuthorId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AuthorName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="AuthorBirthdate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NationalityId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="AuthorDeathdate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="AuthorBookNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BookRequest" Member="BookRequests">
+    <Type Name="BookRequest">
+      <Column Name="BookRequestId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DocTypeId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="BookRequestDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="TotalNumberOfBooks" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="IsRecieved" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="IsClosed" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="EmployeeIdForTransffering" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="EmployeeIdForRecieving" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BookRequestDetail" Member="BookRequestDetails">
+    <Type Name="BookRequestDetail">
+      <Column Name="BookRequestDetailId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BookRequestId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="BookId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Borrower" Member="Borrowers">
+    <Type Name="Borrower">
+      <Column Name="BorrowerId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BorrowerName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="BorrowerNationalityId" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="BorrowerCardIdPic1" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="BorrowerCardIdPic2" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BorrowerBook" Member="BorrowerBooks">
+    <Type Name="BorrowerBook">
+      <Column Name="BorrowerBookId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BorrowerId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="BookId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="BorrowDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="BorrowReturnDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="IsReturned" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="EmployeeIdForBorrow" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="EmployeeIdForReturn" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Category" Member="Categories">
+    <Type Name="Category">
+      <Column Name="CategoryId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CategoryName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DocType" Member="DocTypes">
+    <Type Name="DocType">
+      <Column Name="DocTypeId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DocTypeDesc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Employee" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="EmployeeId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmployeeName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="EmployeeBirthDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="EmployeeHierDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="EmployeeSalary" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Nationality" Member="Nationalities">
+    <Type Name="Nationality">
+      <Column Name="NationalityId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NationalityDesc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Store" Member="Stores">
+    <Type Name="Store">
+      <Column Name="StoreId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StoreDesc" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StoreIsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InvoiceMaster" Member="InvoiceMasters">
+    <Type Name="InvoiceMaster">
+      <Column Name="[Invoice Id]" Member="Invoice_Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="InvoiceDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="BookId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StoreId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="InvoiceNetValue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="InvoiceNetValueAfterDiscount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="InvoiceDiscount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="SubmittedValue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="tregary_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EmployeeId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MainDiscount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="SeasoneId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DocTypeId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LastFinalTotalDiscount" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="FinalInvoiceWinValue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="InvoiceWinValue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="InvoiceNetValue2" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InvoiceMasterDetail" Member="InvoiceMasterDetails">
+    <Type Name="InvoiceMasterDetail">
+      <Column Name="InvoiceDetailId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BookPrice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="BookId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Total" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BookStore" Member="BookStores">
+    <Type Name="BookStore">
+      <Column Name="BookStoreId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StoreId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="BookId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="QuantityOnHand" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Bookllpirice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Bookbuypirice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Book" Member="Books">
+    <Type Name="Book">
+      <Column Name="BookId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BookName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="CategoryId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="AuthorId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="DateOfPublication" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="BeginingBalance" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="BookBarcode" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Bookbuypirice" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Bookllpirice" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
